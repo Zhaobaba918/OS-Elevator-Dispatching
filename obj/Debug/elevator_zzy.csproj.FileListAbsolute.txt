@@ -1,0 +1,10 @@
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\bin\Debug\elevator_zzy.exe.config
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\bin\Debug\elevator_zzy.exe
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\bin\Debug\elevator_zzy.pdb
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.csprojAssemblyReference.cache
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.Form1.resources
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.Properties.Resources.resources
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.csproj.GenerateResource.cache
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.csproj.CoreCompileInputs.cache
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.exe
+H:\Learning\20-21-2\OS\07-王老师OS课程小项目\Elevator\My_elevator\elevator_zzy\obj\Debug\elevator_zzy.pdb
