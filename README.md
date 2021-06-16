@@ -33,11 +33,11 @@
 
 - 打开exe可执行文件,初始界面如下
 
-  ![](img\初始界面.jpg)
+  ![](https://github.com/Zhaobaba918/OS-Elevator-Dispatching/blob/main/img/%E5%88%9D%E5%A7%8B%E7%95%8C%E9%9D%A2.jpg)
 
   - 最左侧是电梯内按钮，包括开关门，1-20楼层按钮，响铃，报警。需要说明的是，为了避免冗余，使UI界面尽可能简介，并未将五个电梯的按钮全部罗列，用户首先需要通过左上角的电梯选择按钮选择当前控制的电梯，才能对某个具体的电梯进行操作。若为选择电梯就进行操作，系统会给出一下提示。
 
-      <img src="img\温馨提示.png" style="zoom:50%;" />
+  ![](https://github.com/Zhaobaba918/OS-Elevator-Dispatching/blob/main/img/%E6%B8%A9%E9%A6%A8%E6%8F%90%E7%A4%BA.jpg)
 
   - 右侧是1-20楼的楼层上下按钮，需要注意的是1楼（底楼）没有下按钮，20楼（顶楼）没有下按钮。
 
@@ -56,8 +56,7 @@
   - 各楼层的上下按钮被按下后，在没有被响应前（没有电梯来服务）为绿色，电梯相应该任务后按钮绿色消除。需要注意的是，电梯到达该层时，不一定会响应该层的服务，会根据相应的内调度算法决定是否相应该层的服务。
   - 右方的电梯状态图直观地显示当前所有电梯的运动状态及所处楼层。
 
-  <img src="img\外调度.png" style="zoom:50%;" />
-
+  ![](https://github.com/Zhaobaba918/OS-Elevator-Dispatching/blob/main/img/%E5%A4%96%E8%B0%83%E5%BA%A6.jpg)
 
 
 ## 系统设计
